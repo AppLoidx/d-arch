@@ -1,0 +1,3 @@
+[submodule "d-arch-front"]
+	path = d-arch-front
+	url = https://github.com/AppLoidx/d-arch-front
